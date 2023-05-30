@@ -6,6 +6,6 @@ for i in a:
 print(mn)
 
 
-# #method2 
-# a.sort()
-# print(a[0])
+#method2 
+a.sort()
+print(a[0])
