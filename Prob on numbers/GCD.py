@@ -11,3 +11,8 @@ def gcd(a,b):
         return a
     return gcd(b,a%b)
 print(gcd(4,8))
+
+a = ["a","b","c"]
+b='/'.join(a)
+b = b.strip('/').split()
+print(b)
