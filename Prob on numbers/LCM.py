@@ -34,4 +34,3 @@ print((n1*n2)//g)
 #     if i not in visit:
 #         lcm *= i*counter2[i] if counter2[i]!=0 else 1
 # print(lcm)
-    
